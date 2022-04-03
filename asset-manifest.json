@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shadow-generator/static/css/main.31d4cee8.css",
+    "main.js": "/shadow-generator/static/js/main.6abd518c.js",
+    "index.html": "/shadow-generator/index.html",
+    "main.31d4cee8.css.map": "/shadow-generator/static/css/main.31d4cee8.css.map",
+    "main.6abd518c.js.map": "/shadow-generator/static/js/main.6abd518c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d4cee8.css",
+    "static/js/main.6abd518c.js"
+  ]
+}
