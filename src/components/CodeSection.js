@@ -20,7 +20,7 @@ const CodeSection = () => {
   const cssShadowBody = `box-shadow: ${
     inset ? "inset " : ""
   }${horizontal}px ${vertical}px ${blur}px ${spread}px ${color};`;
-  const cssShadow = `-webkit-box-shadow: ${cssShadowBody};\n-moz-box-shadow: ${cssShadowBody};\nbox-shadow: ${cssShadowBody};`;
+  const cssShadow = `-webkit-${cssShadowBody}\n-moz-${cssShadowBody}\n${cssShadowBody}`;
 
   return (
     <Code>
